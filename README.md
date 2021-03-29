@@ -5,7 +5,7 @@ Simple STM32 OLED hardware monitor for cryptocurrencies using the Binance API
 Requires the Arduino IDE to build (or an arduino makefile if you're brave).
 
 Hardware components:
-o Heltec STM32 WiFi Kit 32 (~£15)
+- Heltec STM32 WiFi Kit 32 (~£15)
 
 [Their library](https://github.com/HelTecAutomation/Heltec_ESP32) is basically a wrapper around the Adafruit OLED library, so it could be (with relative effort) ported to other OLEDs for more standard STM32 boards.
 
