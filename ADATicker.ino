@@ -14,11 +14,11 @@
 
 
 // User Config
-#define SSID     "ssid as a string"
-#define PASSWORD "password as a string"
+#define SSID     "ssid as a string"  // CHANGE ME
+#define PASSWORD "password as a string"  // CHANGE ME
 #define UPDATE_T 30  // In seconds
 
-
+// You can change the symbol string to something else if you like
 #define ENDPOINT F("https://api.binance.com/api/v3/ticker/24hr?symbol=ADABUSD")
 
 #include "rootCACert.h"
