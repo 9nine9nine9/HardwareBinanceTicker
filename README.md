@@ -1,5 +1,7 @@
 # HardwareBinanceTicker
-Simple STM32 OLED hardware monitor for cryptocurrencies using the Binance API
+Simple STM32 OLED hardware monitor for cryptocurrencies using the Binance API.
+
+By default it tracks ADA/BUSD. It shows the current price and the percentage change over the last 24 hours. It doesn't need an API key, so if you have the hardware you can just set the WiFi details and upload it immediately!
 
 ## Requirements
 Requires the Arduino IDE to build (or an arduino makefile if you're brave).
