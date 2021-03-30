@@ -15,3 +15,5 @@ Hardware components:
 - I'd like to port this over to the standard STM32 libraries (which is possible since the wireless library is already standard, and the OLED is connected through I2C already). This would give access to better docs and easier maintainability since it's community managed.
 
 - It'd be nice to be able to display the ADA logo, but I couldn't get it to convert nicely :(
+
+- Since the board supports a battery, it'd be nice to have a little display of the estimated remaining charge in the corner or something.
